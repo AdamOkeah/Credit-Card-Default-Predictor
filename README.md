@@ -87,7 +87,7 @@ pip install pandas scikit-learn tensorflow matplotlib numpy
 1. Place the dataset (`CCD.xls`) in the project directory.
 2. Run the script:
    ```bash
-   python <script_name>.py
+   python FinalModel(ModelC).py.py
    ```
 
 ### Expected Outputs:
@@ -97,7 +97,7 @@ pip install pandas scikit-learn tensorflow matplotlib numpy
 ---
 
 ## File Descriptions
-- **`<script_name>.py`**: Main script containing the DNN model implementation and evaluation pipeline.
+- **`FinalModel(ModelC).py`**: Main script containing the DNN model implementation and evaluation pipeline.
 - **`CCD.xls`**: Dataset file containing credit card customer information and default statuses.
 
 ---
